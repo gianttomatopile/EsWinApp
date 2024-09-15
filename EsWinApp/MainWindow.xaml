@@ -1,0 +1,49 @@
+﻿<Window x:Class="EsWinApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EsWinApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Rectangle Fill="PaleVioletRed"/>
+
+        <Grid Grid.Row="1">
+
+            <Rectangle Grid.Column="0" Fill="AliceBlue"/>
+
+            <TabControl Grid.Column="0" TabStripPlacement="Left" FontSize="16">
+                <TabItem Header="Test 0">
+                    <Grid Background="#FFE5E5E5"/>
+                </TabItem>
+                <TabItem Header="Test 1">
+                    <Grid Background="#FFE5E5E5"/>
+                </TabItem>
+                <TabItem Header="Test 1">
+                    <Grid Background="#FFE5E5E5"/>
+                </TabItem>
+                <TabItem Header="Test 1">
+                    <Grid Background="#FFE5E5E5"/>
+                </TabItem>
+                <TabItem Header="Test 1">
+                    <Grid Background="#FFE5E5E5"/>
+                </TabItem>
+                <TabItem Header="Test 1">
+                    <Grid Background="#FFE5E5E5"/>
+                </TabItem>
+                <TabItem Header="Test 1">
+                    <Grid Background="#FFE5E5E5"/>
+                </TabItem>
+                
+            </TabControl>
+
+        </Grid>
+        
+    </Grid>
+</Window>
