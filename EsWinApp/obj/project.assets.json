@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Willi\\source\\repos\\EsWinApp\\EsWinApp\\EsWinApp.csproj",
+      "projectUniqueName": "C:\\Users\\Willi\\Documents\\EsWinApp\\EsWinApp\\EsWinApp.csproj",
       "projectName": "EsWinApp",
-      "projectPath": "C:\\Users\\Willi\\source\\repos\\EsWinApp\\EsWinApp\\EsWinApp.csproj",
+      "projectPath": "C:\\Users\\Willi\\Documents\\EsWinApp\\EsWinApp\\EsWinApp.csproj",
       "packagesPath": "C:\\Users\\Willi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Willi\\source\\repos\\EsWinApp\\EsWinApp\\obj\\",
+      "outputPath": "C:\\Users\\Willi\\Documents\\EsWinApp\\EsWinApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Willi\\AppData\\Roaming\\NuGet\\NuGet.Config",

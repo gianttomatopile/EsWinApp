@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Willi\\Documents\\EsWinApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8B899C-BB97-407E-AA3E-BCE1690F5045}|EsWinApp\\EsWinApp.csproj|c:\\users\\willi\\documents\\eswinapp\\eswinapp\\views\\usercontrols\\multiplicationmatrix.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8B899C-BB97-407E-AA3E-BCE1690F5045}|EsWinApp\\EsWinApp.csproj|solutionrelative:eswinapp\\views\\usercontrols\\multiplicationmatrix.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8B899C-BB97-407E-AA3E-BCE1690F5045}|EsWinApp\\EsWinApp.csproj|c:\\users\\willi\\documents\\eswinapp\\eswinapp\\views\\usercontrols\\multiplicationmatrix.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8B899C-BB97-407E-AA3E-BCE1690F5045}|EsWinApp\\EsWinApp.csproj|solutionrelative:eswinapp\\views\\usercontrols\\multiplicationmatrix.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8B899C-BB97-407E-AA3E-BCE1690F5045}|EsWinApp\\EsWinApp.csproj|c:\\users\\willi\\documents\\eswinapp\\eswinapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D8B899C-BB97-407E-AA3E-BCE1690F5045}|EsWinApp\\EsWinApp.csproj|solutionrelative:eswinapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8B899C-BB97-407E-AA3E-BCE1690F5045}|EsWinApp\\EsWinApp.csproj|c:\\users\\willi\\documents\\eswinapp\\eswinapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8B899C-BB97-407E-AA3E-BCE1690F5045}|EsWinApp\\EsWinApp.csproj|solutionrelative:eswinapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MultiplicationMatrix.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Willi\\Documents\\EsWinApp\\EsWinApp\\Views\\UserControls\\MultiplicationMatrix.xaml.cs",
+              "RelativeDocumentMoniker": "EsWinApp\\Views\\UserControls\\MultiplicationMatrix.xaml.cs",
+              "ToolTip": "C:\\Users\\Willi\\Documents\\EsWinApp\\EsWinApp\\Views\\UserControls\\MultiplicationMatrix.xaml.cs",
+              "RelativeToolTip": "EsWinApp\\Views\\UserControls\\MultiplicationMatrix.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:26:10.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultiplicationMatrix.xaml",
+              "DocumentMoniker": "C:\\Users\\Willi\\Documents\\EsWinApp\\EsWinApp\\Views\\UserControls\\MultiplicationMatrix.xaml",
+              "RelativeDocumentMoniker": "EsWinApp\\Views\\UserControls\\MultiplicationMatrix.xaml",
+              "ToolTip": "C:\\Users\\Willi\\Documents\\EsWinApp\\EsWinApp\\Views\\UserControls\\MultiplicationMatrix.xaml",
+              "RelativeToolTip": "EsWinApp\\Views\\UserControls\\MultiplicationMatrix.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-15T17:16:32.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Willi\\Documents\\EsWinApp\\EsWinApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EsWinApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Willi\\Documents\\EsWinApp\\EsWinApp\\MainWindow.xaml",
+              "RelativeToolTip": "EsWinApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-15T16:58:49.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Willi\\Documents\\EsWinApp\\EsWinApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EsWinApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Willi\\Documents\\EsWinApp\\EsWinApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EsWinApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:58:46.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

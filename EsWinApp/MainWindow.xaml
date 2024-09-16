@@ -19,25 +19,25 @@
             <Rectangle Grid.Column="0" Fill="AliceBlue"/>
 
             <TabControl Grid.Column="0" TabStripPlacement="Left" FontSize="16">
-                <TabItem Header="Test 0">
+                <TabItem Header="First">
                     <Grid Background="#FFE5E5E5"/>
                 </TabItem>
-                <TabItem Header="Test 1">
+                <TabItem Header="Second">
                     <Grid Background="#FFE5E5E5"/>
                 </TabItem>
-                <TabItem Header="Test 1">
+                <TabItem Header="Test 2">
                     <Grid Background="#FFE5E5E5"/>
                 </TabItem>
-                <TabItem Header="Test 1">
+                <TabItem Header="Test 3">
                     <Grid Background="#FFE5E5E5"/>
                 </TabItem>
-                <TabItem Header="Test 1">
+                <TabItem Header="Test 4">
                     <Grid Background="#FFE5E5E5"/>
                 </TabItem>
-                <TabItem Header="Test 1">
+                <TabItem Header="Test 5">
                     <Grid Background="#FFE5E5E5"/>
                 </TabItem>
-                <TabItem Header="Test 1">
+                <TabItem Header="Test 6">
                     <Grid Background="#FFE5E5E5"/>
                 </TabItem>
                 
